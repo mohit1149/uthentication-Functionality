@@ -1,0 +1,30 @@
+/* Write your CSS code here */
+.header-container {
+  display: flex;
+}
+.paragraph-heading {
+  margin: 5px;
+}
+.header-button {
+  background-color: transparent;
+  border-width: 0px;
+  color: blue;
+  text-decoration: underline;
+}
+.nav-items-list {
+  display: flex;
+  padding-left: 0px;
+}
+
+.link-item {
+  list-style-type: none;
+}
+
+.route-link {
+  color: blue;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: underline;
+  margin-left: 16px;
+}
